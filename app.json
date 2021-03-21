@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Sijaintimuistio",
+    "slug": "Sijaintimuistio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/favicon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "ot12.com"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
